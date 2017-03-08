@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EarthQ.Views.MenuPage">
+  <StackLayout x:Name="ListStack">
+    <ListView x:Name="MenuList" BackgroundColor="Orange" SeparatorVisibility="None" HasUnevenRows="true" VerticalOptions="FillAndExpand">
+      <ListView.Header>
+        <AbsoluteLayout>
+          <StackLayout x:Name="ListHeaderPart" Orientation="Horizontal" Padding="0" HorizontalOptions="FillAndExpand">
+            <Image Source="Apartment.png" Aspect="Fill"/>
+          </StackLayout>
+        </AbsoluteLayout>
+      </ListView.Header>
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell>
+            <ViewCell.View>
+              <StackLayout>
+                <StackLayout Orientation="Horizontal" Padding="20,15,20,15" Spacing="15">
+                  <Image Source="{Binding Path=MenuIconName}" />
+                  <Label TextColor="White" Text="{Binding Path=MenuItemName}" VerticalTextAlignment="Center"/>
+                </StackLayout>
+                <Grid HeightRequest="0.5" HorizontalOptions="FillAndExpand" BackgroundColor="White" />
+              </StackLayout>
+            </ViewCell.View>
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+  </StackLayout>
+</ContentPage>
