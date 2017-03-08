@@ -1,1 +1,2 @@
 # EarthQ
+Developed with Xamarin
