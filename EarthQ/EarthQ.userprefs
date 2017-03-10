@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{054CB615-E1B4-443B-95B4-36EDE430E66E}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="EarthQ\EarthQ.Droid\MainActivity.cs">
+    <Files>
+      <File FileName="EarthQ\EarthQ.Droid\MainActivity.cs" Line="1" Column="1" />
+      <File FileName="EarthQ\EarthQ.Droid\Resources\values\styles.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EarthQ.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.169.254.191.177:5555" />
+</Properties>

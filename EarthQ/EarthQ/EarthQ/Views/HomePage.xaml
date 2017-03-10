@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="EarthQ.Views.HomePage">
+             x:Class="EarthQ.Views.HomePage"
+             xmlns:local="clr-namespace:EarthQ;assembly=EarthQ">
     <StackLayout x:Name="TopStack" BackgroundColor="#eaeff5" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
       <StackLayout x:Name="ListStack" Padding="10">
         <StackLayout BackgroundColor="White">
@@ -35,7 +36,7 @@
                          Grid.Row="0"
                          HorizontalOptions="CenterAndExpand"
                          VerticalOptions="CenterAndExpand">
-              <Button Image="Forward.png"/>
+              <local:CustomButton Image="Forward.png"/>
             </StackLayout>
           </Grid>
         </StackLayout>

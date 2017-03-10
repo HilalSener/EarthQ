@@ -36,6 +36,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="App.cs" />
+    <Compile Include="CustomControls\CustomButton.cs" />
     <Compile Include="CustomControls\EarthQNavigationPage.cs" />
     <Compile Include="Models\EarthQListModel.cs" />
     <Compile Include="Models\MenuModel.cs" />
