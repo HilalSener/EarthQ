@@ -14,7 +14,7 @@ namespace EarthQ.Views
         {
             InitializeComponent();
 
-            Title = "HomePage";
+            Title = "Earthquake List";
         }
     }
 }

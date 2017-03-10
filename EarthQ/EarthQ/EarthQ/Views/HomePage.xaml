@@ -2,5 +2,43 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="EarthQ.Views.HomePage">
-  <Label Text="Welcome to Xamarin.Forms" VerticalOptions="Center" HorizontalOptions="Center" />
+    <StackLayout x:Name="TopStack" BackgroundColor="#eaeff5" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+      <StackLayout x:Name="ListStack" Padding="10">
+        <StackLayout BackgroundColor="White">
+          <Grid Padding="10">
+            <Grid.ColumnDefinitions>
+              <ColumnDefinition Width="4*"/>
+              <ColumnDefinition Width="*"/>
+              <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+              <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <StackLayout Grid.Column="0"
+                         Grid.Row="0"
+                         Orientation="Vertical"
+                         HorizontalOptions="StartAndExpand"
+                         VerticalOptions="CenterAndExpand">
+              <Label TextColor="#3d3d3d" Text="Şehir" />
+              <Label TextColor="#3d3d3d" Text="Tarih" />
+            </StackLayout>
+            <StackLayout Grid.Column="1"
+                         Grid.Row="0"
+                         HorizontalOptions="EndAndExpand"
+                         VerticalOptions="CenterAndExpand">
+              <Label TextColor="#3d3d3d"
+                     Text="2.1"
+                     FontSize="30"
+                     FontAttributes="Bold"/>
+            </StackLayout>
+            <StackLayout Grid.Column="2"
+                         Grid.Row="0"
+                         HorizontalOptions="CenterAndExpand"
+                         VerticalOptions="CenterAndExpand">
+              <Button Image="Forward.png"/>
+            </StackLayout>
+          </Grid>
+        </StackLayout>
+      </StackLayout>
+    </StackLayout>
 </ContentPage>
