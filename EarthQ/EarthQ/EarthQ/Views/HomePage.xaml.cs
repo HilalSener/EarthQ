@@ -10,11 +10,19 @@ namespace EarthQ.Views
 {
     public partial class HomePage 
     {
+        public Services service = new Services();
         public HomePage()
         {
             InitializeComponent();
 
             Title = "Earthquake List";
+            GetEarthQListPage();
+        }
+
+        public async void GetEarthQListPage()
+        {
+            var list = await service.GetEarthquke();
+            lstView.BindingContext = list.Earthquakes;
         }
     }
 }

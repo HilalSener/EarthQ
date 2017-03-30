@@ -16,3 +16,87 @@ C:\Users\Hilal Sener\documents\visual studio 2015\Projects\EarthQ\EarthQ\EarthQ\
 C:\Users\Hilal Sener\documents\visual studio 2015\Projects\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.pdb
 C:\Users\Hilal Sener\documents\visual studio 2015\Projects\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.dll.mdb
 C:\Users\Hilal Sener\documents\visual studio 2015\Projects\EarthQ\EarthQ\EarthQ\bin\Debug\EarthQ.dll.mdb
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\EarthQ.dll.config
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\EarthQ.dll
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\EarthQ.pdb
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\System.Net.Http.dll
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\System.Net.Http.xml
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.csproj.App.config
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.csprojResolveAssemblyReference.cache
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.Views.MenuPage.xaml.g.cs
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.Views.MenuPages.EarthQMapPage.xaml.g.cs
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.Views.HomePage.xaml.g.cs
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.dll
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.pdb
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.dll.mdb
+C:\Users\Hilal Sener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\EarthQ.dll.mdb
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.csproj.App.config
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.csprojResolveAssemblyReference.cache
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.Views.MenuPage.xaml.g.cs
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.Views.MenuPages.EarthQMapPage.xaml.g.cs
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.Views.HomePage.xaml.g.cs
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.dll
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.pdb
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\EarthQ.dll.config
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\EarthQ.dll
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\EarthQ.pdb
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Newtonsoft.Json.dll
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\System.Net.Http.dll
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\System.Net.Http.Extensions.dll
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\System.Net.Http.Primitives.dll
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Core.dll
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Newtonsoft.Json.xml
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\System.Net.Http.xml
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\System.Net.Http.Extensions.xml
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\System.Net.Http.Primitives.xml
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Core.xml
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Platform.pdb
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.dll.mdb
+E:\Hilal\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\EarthQ.dll.mdb
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\EarthQ.dll.config
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\EarthQ.dll
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\EarthQ.pdb
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\System.Net.Http.dll
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\System.Net.Http.xml
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.csproj.App.config
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.Views.MenuPage.xaml.g.cs
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.Views.MenuPages.EarthQMapPage.xaml.g.cs
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.Views.HomePage.xaml.g.cs
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.dll
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.pdb
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.csprojResolveAssemblyReference.cache
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.dll.mdb
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\EarthQ.dll.mdb
