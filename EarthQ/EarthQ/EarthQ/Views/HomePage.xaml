@@ -21,12 +21,13 @@
                     </Grid.RowDefinitions>
                     <StackLayout Grid.Column="0"
                                  Grid.Row="0"
+                                 Margin="10,0,0,0"
                                  Orientation="Vertical"
                                  HorizontalOptions="StartAndExpand"
                                  VerticalOptions="StartAndExpand">
                       <Label TextColor="#3d3d3d" Text="{Binding Location}" />
                       <StackLayout>
-                          <Label TextColor="#3d3d3d" Text="{Binding Date}" />
+                        <Label TextColor="#3d3d3d" Text="{Binding FormattedDate}" />
                       </StackLayout>
                     </StackLayout>
                     <StackLayout Grid.Column="1"
@@ -41,8 +42,8 @@
                     <StackLayout Grid.Column="2"
                                  Grid.Row="0"
                                  HorizontalOptions="EndAndExpand"
-                                 VerticalOptions="EndAndExpand">
-                      <local:CustomButton Image="Forward.png" HorizontalOptions="EndAndExpand"/>
+                                 VerticalOptions="CenterAndExpand">
+                      <local:CustomButton Image="Forward.png" HorizontalOptions="End"/>
                     </StackLayout>
                   </Grid>
                 </StackLayout>
