@@ -3,14 +3,14 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="EarthQ.Views.HomePage"
              xmlns:local="clr-namespace:EarthQ;assembly=EarthQ">
-    <StackLayout x:Name="TopStack" BackgroundColor="#eaeff5" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+    <StackLayout x:Name="TopStack" BackgroundColor="White" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
       <ListView  x:Name="lstView" ItemsSource="{Binding .}" RowHeight="60">
         <ListView.ItemTemplate>
           <DataTemplate>
             <ViewCell>
               <StackLayout x:Name="ListStack" Padding="10">
                 <StackLayout BackgroundColor="White">
-                  <Grid Padding="10">
+                  <Grid>
                     <Grid.ColumnDefinitions>
                       <ColumnDefinition Width="4*"/>
                       <ColumnDefinition Width="*"/>
@@ -23,24 +23,26 @@
                                  Grid.Row="0"
                                  Orientation="Vertical"
                                  HorizontalOptions="StartAndExpand"
-                                 VerticalOptions="CenterAndExpand">
+                                 VerticalOptions="StartAndExpand">
                       <Label TextColor="#3d3d3d" Text="{Binding Location}" />
-                      <Label TextColor="#3d3d3d" Text="{Binding Date}" />
+                      <StackLayout>
+                          <Label TextColor="#3d3d3d" Text="{Binding Date}" />
+                      </StackLayout>
                     </StackLayout>
                     <StackLayout Grid.Column="1"
                                  Grid.Row="0"
                                  HorizontalOptions="EndAndExpand"
                                  VerticalOptions="CenterAndExpand">
                       <Label TextColor="#3d3d3d"
-                             Text="2.1"
+                             Text="{Binding Ml}"
                              FontSize="30"
                              FontAttributes="Bold"/>
                     </StackLayout>
                     <StackLayout Grid.Column="2"
                                  Grid.Row="0"
-                                 HorizontalOptions="CenterAndExpand"
-                                 VerticalOptions="CenterAndExpand">
-                      <local:CustomButton Image="Forward.png"/>
+                                 HorizontalOptions="EndAndExpand"
+                                 VerticalOptions="EndAndExpand">
+                      <local:CustomButton Image="Forward.png" HorizontalOptions="EndAndExpand"/>
                     </StackLayout>
                   </Grid>
                 </StackLayout>

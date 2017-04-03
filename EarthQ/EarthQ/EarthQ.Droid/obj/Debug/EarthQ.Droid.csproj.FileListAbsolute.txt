@@ -375,7 +375,6 @@ C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\bin\Debug\Xamarin.Forms.Platform.And
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\bin\Debug\Xamarin.Forms.Platform.dll
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\bin\Debug\EarthQ.pdb
-C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\bin\Debug\EarthQ.dll.mdb
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\bin\Debug\FormsViewGroup.pdb
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\bin\Debug\FormsViewGroup.dll.mdb
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\bin\Debug\Newtonsoft.Json.xml
@@ -411,6 +410,7 @@ C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\res\drawable\settings.png
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\R.cs.flag
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\uploadflags.txt
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\bin\Debug\EarthQ.Droid.dll.mdb
+C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\bin\Debug\EarthQ.dll.mdb
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\bin\Debug\Java.Interop.dll.mdb
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\bin\Debug\Mono.Android.dll.mdb
