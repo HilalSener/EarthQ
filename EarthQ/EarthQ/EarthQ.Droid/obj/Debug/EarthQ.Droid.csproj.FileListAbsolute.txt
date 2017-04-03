@@ -312,6 +312,7 @@ C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\res\dr
 C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\res\drawable\apartments.png
 C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\res\drawable\apartment.png
 C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\res\drawable\forward.png
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\res\drawable\settings.png
 C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\R.cs.flag
 C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\uploadflags.txt
 C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ.Droid\bin\Debug\EarthQ.Droid.dll.mdb

@@ -15,7 +15,7 @@ namespace EarthQ.Views
         {
             InitializeComponent();
 
-            Title = "Earthquake List";
+            Title = "Deprem Listesi";
             GetEarthQListPage();
         }
 

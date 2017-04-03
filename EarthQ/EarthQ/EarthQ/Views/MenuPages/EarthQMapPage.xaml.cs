@@ -13,6 +13,7 @@ namespace EarthQ.Views.MenuPages
         public EarthQMapPage()
         {
             InitializeComponent();
+            Title = "Haritalada Depremler";
         }
     }
 }

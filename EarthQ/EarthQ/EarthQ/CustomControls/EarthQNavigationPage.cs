@@ -7,7 +7,7 @@ using Xamarin.Forms;
 
 namespace EarthQ.CustomControls
 {
-    public class EarthQNavigationPage :NavigationPage
+    public class EarthQNavigationPage : NavigationPage
     {
         public EarthQNavigationPage(ContentPage mainPage):base(mainPage)
 		{

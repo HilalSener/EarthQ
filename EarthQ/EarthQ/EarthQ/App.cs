@@ -12,14 +12,14 @@ namespace EarthQ
     public class App : Application
     {
         public static MasterDetailPage MenuPage;
-        public static EarthQNavigationPage NavigationPage;
+        public static EarthQNavigationPage DetailPage;
 
         public App()
         {
-            var MenuPage = new MasterDetailPage();
-            NavigationPage = new EarthQNavigationPage(new HomePage()) { BarBackgroundColor = Color.Orange };
+            MenuPage = new MasterDetailPage();
+            DetailPage = new EarthQNavigationPage(new HomePage()) { BarBackgroundColor = Color.Orange };
             MenuPage.Master = new MenuPage();
-            MenuPage.Detail = NavigationPage;
+            MenuPage.Detail = DetailPage;
             MainPage = MenuPage;
         }
 

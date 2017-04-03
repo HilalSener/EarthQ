@@ -1,12 +1,9 @@
-﻿using EarthQ.CustomControls;
+﻿using System;
+using EarthQ.CustomControls;
 using EarthQ.Models;
 using EarthQ.Views.MenuPages;
-using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 using Xamarin.Forms;
 
@@ -15,16 +12,17 @@ namespace EarthQ.Views
     public partial class MenuPage : ContentPage
     {
         ObservableCollection<MenuModel> menuItems = new ObservableCollection<MenuModel>();
-        EarthQNavigationPage earthQMap = new EarthQNavigationPage(new EarthQMapPage());
-
+        EarthQNavigationPage earthQMap = new EarthQNavigationPage(new EarthQMapPage()) { BarBackgroundColor = Color.Orange };
+        EarthQNavigationPage earthQSetting = new EarthQNavigationPage(new SettingsPage()) { BarBackgroundColor = Color.Orange };
         public MenuPage()
         {
             InitializeComponent();
             Title = "Menü";
             Icon = "Menu.png";
 
-            menuItems.Add(new MenuModel("Earthquake List", "Resources/List.png", App.NavigationPage));
-            menuItems.Add(new MenuModel("Earthqake Map", "Resources/Earth.png", earthQMap));
+            menuItems.Add(new MenuModel("Deprem Listesi", "Resources/List.png", App.DetailPage));
+            menuItems.Add(new MenuModel("Haritada Depremler", "Resources/Earth.png", earthQMap));
+            menuItems.Add(new MenuModel("Ayarlar", "Resources/Settings.png", earthQSetting));
             MenuList.ItemsSource = menuItems;
             MenuList.ItemTapped += (object sender, ItemTappedEventArgs e) =>
             {

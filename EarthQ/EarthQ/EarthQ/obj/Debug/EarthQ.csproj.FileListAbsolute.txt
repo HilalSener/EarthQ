@@ -92,11 +92,16 @@ C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Form
 C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.csproj.App.config
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.csprojResolveAssemblyReference.cache
 C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.Views.MenuPage.xaml.g.cs
 C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.Views.MenuPages.EarthQMapPage.xaml.g.cs
 C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.Views.HomePage.xaml.g.cs
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.Views.MenuPages.SettingsPage.xaml.g.cs
 C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.dll
 C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.pdb
-C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.csprojResolveAssemblyReference.cache
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.dll.mdb
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\EarthQ.dll.mdb
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.dll.mdb
+C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\EarthQ.dll.mdb
 C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.dll.mdb
 C:\Users\HilalSener\Documents\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\EarthQ.dll.mdb
