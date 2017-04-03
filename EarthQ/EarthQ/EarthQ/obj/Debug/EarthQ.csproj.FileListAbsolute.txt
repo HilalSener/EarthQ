@@ -111,3 +111,5 @@ C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.dll.mdb
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\EarthQ.dll.mdb
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.dll.mdb
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\EarthQ.dll.mdb
+C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.dll.mdb
+C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\EarthQ.dll.mdb
