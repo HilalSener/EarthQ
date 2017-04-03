@@ -17,6 +17,9 @@ namespace EarthQ.Views {
     public partial class HomePage : global::Xamarin.Forms.ContentPage {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.ToolbarItem Refresh;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.StackLayout TopStack;
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
@@ -25,6 +28,7 @@ namespace EarthQ.Views {
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(HomePage));
+            Refresh = this.FindByName<global::Xamarin.Forms.ToolbarItem>("Refresh");
             TopStack = this.FindByName<global::Xamarin.Forms.StackLayout>("TopStack");
             lstView = this.FindByName<global::Xamarin.Forms.ListView>("lstView");
         }

@@ -17,6 +17,11 @@ namespace EarthQ.Views
 
             Title = "Deprem Listesi";
             GetEarthQListPage();
+
+            Refresh.Clicked += delegate
+            {
+                GetEarthQListPage();
+            };
         }
 
         public async void GetEarthQListPage()
