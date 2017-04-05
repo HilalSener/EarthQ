@@ -27,7 +27,7 @@ namespace EarthQ.Views
         public async void GetEarthQListPage()
         {
             var list = await service.GetEarthquke();
-            lstView.BindingContext = list.Earthquakes;
+            lstView.BindingContext = list.Earthquakes.Take(10);
         }
     }
 }

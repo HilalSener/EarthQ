@@ -31,6 +31,7 @@ C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\android\assets\System.Diag
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\android\assets\System.Threading.Tasks.dll
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\android\assets\System.Diagnostics.Tools.dll
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\android\assets\System.ObjectModel.dll
+C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\android\assets\System.Linq.dll
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\android\assets\System.IO.dll
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\android\assets\System.Xml.XDocument.dll
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\android\assets\System.Collections.dll
@@ -41,7 +42,6 @@ C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\android\assets\System.Serv
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\android\assets\System.Reflection.dll
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\android\assets\System.Linq.Expressions.dll
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\android\assets\System.Dynamic.Runtime.dll
-C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\android\assets\System.Linq.dll
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\android\assets\System.Text.RegularExpressions.dll
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.Droid\obj\Debug\android\assets\System.Text.Encoding.dll
