@@ -40,7 +40,7 @@
                                  VerticalOptions="CenterAndExpand">
                                             <Label TextColor="#3d3d3d"
                              Text="{Binding Ml}"
-                             FontSize="30"
+                             FontSize="Medium"
                              FontAttributes="Bold"/>
                                         </StackLayout>
                                         <StackLayout Grid.Column="2"

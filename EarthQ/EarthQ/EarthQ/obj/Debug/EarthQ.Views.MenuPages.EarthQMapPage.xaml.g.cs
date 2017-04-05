@@ -17,8 +17,16 @@ namespace EarthQ.Views.MenuPages {
     public partial class EarthQMapPage : global::Xamarin.Forms.ContentPage {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.StackLayout TopStack;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Maps.Map MyMap;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(EarthQMapPage));
+            TopStack = this.FindByName<global::Xamarin.Forms.StackLayout>("TopStack");
+            MyMap = this.FindByName<global::Xamarin.Forms.Maps.Map>("MyMap");
         }
     }
 }

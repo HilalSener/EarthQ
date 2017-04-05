@@ -109,6 +109,7 @@ C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\System.Net.Http.dll
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\System.Net.Http.Extensions.dll
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\System.Net.Http.Primitives.dll
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Core.dll
+C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Maps.dll
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Platform.dll
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Xaml.dll
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Newtonsoft.Json.xml
@@ -117,6 +118,7 @@ C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\System.Net.Http.Extensions.xml
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\System.Net.Http.Primitives.xml
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Core.pdb
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Core.xml
+C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Maps.xml
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Platform.pdb
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\Xamarin.Forms.Xaml.xml
@@ -127,6 +129,5 @@ C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.Views.HomePage.xaml.g.cs
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.Views.MenuPages.SettingsPage.xaml.g.cs
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.dll
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.pdb
-C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.csprojResolveAssemblyReference.cache
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\obj\Debug\EarthQ.dll.mdb
 C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\bin\Debug\EarthQ.dll.mdb

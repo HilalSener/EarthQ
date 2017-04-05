@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="EarthQ.Droid">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" android:versionCode="1" android:versionName="1.0" package="EarthQ.Droid">
   <!--suppress UsesMinSdkAttributes-->
   <uses-sdk android:minSdkVersion="19" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+  <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-  <application android:label="EarthQ.Droid" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+  <uses-feature android:glEsVersion="0x00020000" android:required="true" />
+  <application android:label="EarthQ" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+    <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyAyuaORqx4EI_LMtUHKa4a6YGIaTENfeMM" />
+    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
     <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="EarthQ" android:theme="@style/MainTheme" android:name="md519c14e3b4a93032f4000f02c6d1cbf22.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
@@ -21,4 +31,5 @@
       </intent-filter>
     </receiver>
   </application>
+  <application android:label="EarthQ.Droid"></application>
 </manifest>

@@ -1,0 +1,2 @@
+C:\Github\EarthQ\EarthQ\EarthQ\EarthQ.WinPhone\EarthQ.WinPhone.csproj;neutral
+C:\Github\EarthQ\EarthQ\EarthQ\EarthQ\EarthQ.csproj;neutral

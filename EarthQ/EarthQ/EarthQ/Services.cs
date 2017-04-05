@@ -27,5 +27,19 @@ namespace EarthQ
                 return myreturn;
             }
         }
+
+        public async Task<EarthQListModel> GetEarthqukeMaps()
+        {
+            using (var client = new HttpClient())
+            {
+                client.BaseAddress = new Uri("http://sondepremler20160728065405.azurewebsites.net/");
+                client.DefaultRequestHeaders.Add("Accept", "appliction/json");
+                var response = client.GetAsync("last");
+                var result = await response.Result.Content.ReadAsStringAsync();
+                var myreturn = JsonConvert.DeserializeObject<EarthQListModel>(result);
+
+                return myreturn;
+            }
+        }
     }
 }
